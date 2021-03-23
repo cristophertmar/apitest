@@ -1,0 +1,7 @@
+C:\Users\Cristopher\Desktop\Proyectos\APITests\APITests\obj\Release\netcoreapp3.1\PubTmp\Out\APITests.exe
+C:\Users\Cristopher\Desktop\Proyectos\APITests\APITests\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Cristopher\Desktop\Proyectos\APITests\APITests\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Cristopher\Desktop\Proyectos\APITests\APITests\obj\Release\netcoreapp3.1\PubTmp\Out\APITests.dll
+C:\Users\Cristopher\Desktop\Proyectos\APITests\APITests\obj\Release\netcoreapp3.1\PubTmp\Out\APITests.deps.json
+C:\Users\Cristopher\Desktop\Proyectos\APITests\APITests\obj\Release\netcoreapp3.1\PubTmp\Out\APITests.runtimeconfig.json
+C:\Users\Cristopher\Desktop\Proyectos\APITests\APITests\obj\Release\netcoreapp3.1\PubTmp\Out\APITests.pdb
